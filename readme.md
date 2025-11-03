@@ -59,16 +59,15 @@ Skila skal verkefninu keyrandi á Netlify.
 - 15% – A.m.k. ein síða uppsett með einhverju efni.
 - 30% – Verkefni uppsett með JavaScript tóli og keyrandi á Netlify.
 - 30% – Web API notað.
-- 10% – `stylelint` og `eslint` sett upp og engar villur.
--
+- 10% – `stylelint` (ef við á) og `eslint` sett upp og engar villur.
 
 ## Sett fyrir
 
-Verkefni sett fyrir í fyrirlestri mánudaginn 27. október 2025.
+Verkefni sett fyrir í fyrirlestri mánudaginn 3. nóvember 2025.
 
 ## Skil
 
-Skila skal í Canvas, seinasta lagi fyrir lok dags fimmtudaginn 6. nóvember 2025.
+Skila skal í Canvas, seinasta lagi fyrir lok dags fimmtudaginn 13. nóvember 2025.
 
 Skilaboð skulu innihalda:
 
