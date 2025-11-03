@@ -1,4 +1,4 @@
-# Vefforritun 1, 2025: Verkefni 9, JavaScript #4
+# Vefforritun 1, 2025: Verkefni 10, JavaScript #4
 
 ## Markmið
 
